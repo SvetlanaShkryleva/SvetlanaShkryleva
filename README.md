@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет, я Светлана Шкрылёва 👋
 
-<!--
-**SvetlanaShkryleva/SvetlanaShkryleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Программная инженерия** | ННГУ (2023-2027)
 
-Here are some ideas to get you started:
+👩‍💻 Прохожу курс от **Авито**: тест-анализ и документация, ручное тестирование, UI-автоматизация, API-автоматизация
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Учусь в **Школе 21** от Сбера: тестирование web, backend, mobile
+
+🔍 Ищу работу на позицию **QA Engineer manual**
+
+---
+
+## 🛠️ Мои проекты
+
+### 📝 Анализ требований и создание тест-документации 
+[Тест-сьюты](https://docs.google.com/spreadsheets/d/1DIu5TsJR_dsAjmQrQp3yOYk-7O_WQ497AI-sMwT1Dpw/edit?usp=sharing)
+
+Даны требования к проекту "веб-сайт по подаче объявлений". Предстояло изучить требования, макеты тренажёра Авито и написать для него тест-кейсы
+
+*Использовала:* Таблица принятия решений, диаграмма переходов состояний, граничные значения, попарное тестирование, классы эквивалентности
+
+### 💪 Ручное тестирование
+[Чек-лист](https://docs.google.com/spreadsheets/d/1Et1PUUn1l24M-zgfHp_Aip2glgvVJmJkc6eAS49en58/edit?usp=sharing)
+
+Есть требования, макет и приложение, которое надо протестировать. Выявила 10 багов
+
+*Использовала:* Devtools, Яндекс.Трекер
+
+---
+
+## 📫 Контакты
+Email: shkryleva.svetlana@mail.ru
+
+Telegram: @sv_shkr
