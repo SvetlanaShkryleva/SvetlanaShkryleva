@@ -6,7 +6,7 @@
 
 🖥️ Учусь в **Школе 21** от Сбера: тестирование web, backend, mobile
 
-🔍 Ищу работу на позицию **QA Engineer manual**
+🔍 Ищу стажировку или junior-позицию **QA Engineer manual**
 
 ---
 
